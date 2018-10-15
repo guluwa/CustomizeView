@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RainyView">
+        <attr name="left_cloud_color" format="color"/>
+        <attr name="right_cloud_color" format="color"/>
+    </declare-styleable>
+</resources>
