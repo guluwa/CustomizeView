@@ -3,5 +3,6 @@
     <declare-styleable name="RainyView">
         <attr name="left_cloud_color" format="color"/>
         <attr name="right_cloud_color" format="color"/>
+        <attr name="rain_color" format="color"/>
     </declare-styleable>
 </resources>
