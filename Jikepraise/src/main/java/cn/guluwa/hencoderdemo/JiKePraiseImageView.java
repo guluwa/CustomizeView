@@ -335,7 +335,7 @@ public class JiKePraiseImageView extends View {
         this.listener = listener;
     }
 
-    interface PraiseListener {
+    public interface PraiseListener {
         void praiseFinish();
 
         void cancelFinish();
