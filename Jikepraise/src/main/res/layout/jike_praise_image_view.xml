@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cn.guluwa.hencoderdemo.JiKePraiseImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:id="@+id/mPraiseImage"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/ivPraiseTop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="2dp"
+        android:src="@drawable/ic_messages_like_selected_shining" />
+
+    <ImageView
+        android:id="@+id/ivPraiseDown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:src="@drawable/ic_messages_like_selected" />
+</cn.guluwa.hencoderdemo.JiKePraiseImageView>
