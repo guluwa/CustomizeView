@@ -374,7 +374,7 @@ class RainyView @JvmOverloads constructor(context: Context, attrs: AttributeSet?
         mComputeMatrix?.postScale(CLOUD_SCALE_RATIO, CLOUD_SCALE_RATIO, mRightCloudCenterX, mLeftCloudEndY)
         mLeftCloudPath?.transform(mComputeMatrix, mRightCloudPath)
 
-        //雨滴范围计算 ===============================================================================================================
+        //雨滴范围计算 =====================================================================================================================
         val left = calculateRect.left + mLeftCloudRoundRadius
         mRightCloudPath?.computeBounds(calculateRect, false)
         val right = calculateRect.right
