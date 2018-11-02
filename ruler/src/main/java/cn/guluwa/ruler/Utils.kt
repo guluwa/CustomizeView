@@ -6,7 +6,7 @@ import android.content.ContextWrapper
 import android.util.DisplayMetrics
 
 /**
- * Created by guluwa on 2018/10/25.
+ * Created by guluwa on 2018/11/2.
  */
 object Utils {
 

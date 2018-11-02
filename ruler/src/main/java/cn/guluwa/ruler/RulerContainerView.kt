@@ -8,7 +8,7 @@ import android.util.AttributeSet
 import android.view.ViewGroup
 
 /**
- * Created by guluwa on 2018/10/25.
+ * Created by guluwa on 2018/11/2.
  */
 class RulerContainerView @JvmOverloads constructor(
     context: Context,

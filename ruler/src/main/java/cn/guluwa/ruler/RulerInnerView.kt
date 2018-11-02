@@ -4,12 +4,8 @@ import android.content.Context
 import android.graphics.Canvas
 import android.graphics.Color
 import android.graphics.Paint
-import android.graphics.RectF
 import android.os.Build
-import android.support.annotation.ColorRes
 import android.util.AttributeSet
-import android.util.Half.toFloat
-import android.util.Log
 import android.view.*
 import android.widget.EdgeEffect
 import android.widget.OverScroller
