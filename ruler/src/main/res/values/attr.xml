@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RulerInnerView">
+        <attr name="min_num" format="integer"/>
+        <attr name="max_num" format="integer"/>
+    </declare-styleable>
+</resources>
